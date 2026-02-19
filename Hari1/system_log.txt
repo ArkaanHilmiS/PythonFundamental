@@ -1,0 +1,45 @@
+[2026-02-19 08:38:21] [INFO] System started
+[2026-02-19 08:38:21] [INFO] User 'tomas' logged in
+[2026-02-19 08:38:21] [INFO] Processing payroll for 50 employees
+[2026-02-19 08:38:21] [ERROR] Database connection failed
+[2026-02-19 08:38:21] [INFO] Payroll processing completed
+[2026-02-19 08:38:21] [INFO] Payroll processed for EMP001
+[2026-02-19 08:38:21] [ERROR] Missing field: gaji
+[2026-02-19 08:38:21] [ERROR] Validation error: Gaji harus antara Rp 5,000,000 - Rp 50,000,000
+[2026-02-19 08:38:21] [INFO] Payroll processed for EMP004
+[2026-02-19 08:41:41] [INFO] System started
+[2026-02-19 08:41:41] [INFO] User 'tomas' logged in
+[2026-02-19 08:41:41] [INFO] Processing payroll for 50 employees
+[2026-02-19 08:41:41] [ERROR] Database connection failed
+[2026-02-19 08:41:41] [INFO] Payroll processing completed
+[2026-02-19 08:41:41] [INFO] Payroll processed for EMP001
+[2026-02-19 08:41:41] [ERROR] Missing field: gaji
+[2026-02-19 08:41:41] [ERROR] Validation error: Gaji harus antara Rp 5,000,000 - Rp 50,000,000
+[2026-02-19 08:41:41] [INFO] Payroll processed for EMP004
+[2026-02-19 08:41:59] [INFO] System started
+[2026-02-19 08:41:59] [INFO] User 'tomas' logged in
+[2026-02-19 08:41:59] [INFO] Processing payroll for 50 employees
+[2026-02-19 08:41:59] [ERROR] Database connection failed
+[2026-02-19 08:41:59] [INFO] Payroll processing completed
+[2026-02-19 08:41:59] [INFO] Payroll processed for EMP001
+[2026-02-19 08:41:59] [ERROR] Missing field: gaji
+[2026-02-19 08:41:59] [ERROR] Validation error: Gaji harus antara Rp 5,000,000 - Rp 50,000,000
+[2026-02-19 08:41:59] [INFO] Payroll processed for EMP004
+[2026-02-19 08:41:59] [INFO] System started
+[2026-02-19 08:41:59] [INFO] User 'tomas' logged in
+[2026-02-19 08:41:59] [INFO] Processing payroll for 50 employees
+[2026-02-19 08:41:59] [ERROR] Database connection failed
+[2026-02-19 08:41:59] [INFO] Payroll processing completed
+[2026-02-19 08:41:59] [INFO] Payroll processed for EMP001
+[2026-02-19 08:41:59] [ERROR] Missing field: gaji
+[2026-02-19 08:41:59] [ERROR] Validation error: Gaji harus antara Rp 5,000,000 - Rp 50,000,000
+[2026-02-19 08:41:59] [INFO] Payroll processed for EMP004
+[2026-02-19 08:42:16] [INFO] System started
+[2026-02-19 08:42:16] [INFO] User 'tomas' logged in
+[2026-02-19 08:42:16] [INFO] Processing payroll for 50 employees
+[2026-02-19 08:42:16] [ERROR] Database connection failed
+[2026-02-19 08:42:16] [INFO] Payroll processing completed
+[2026-02-19 08:42:16] [INFO] Payroll processed for EMP001
+[2026-02-19 08:42:16] [ERROR] Missing field: gaji
+[2026-02-19 08:42:16] [ERROR] Validation error: Gaji harus antara Rp 5,000,000 - Rp 50,000,000
+[2026-02-19 08:42:16] [INFO] Payroll processed for EMP004

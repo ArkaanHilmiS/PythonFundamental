@@ -1,0 +1,4 @@
+created_at,departemen,email,gaji,gross_salary,health_insurance,id,join_date,nama,net_salary,pension,processed_at,tax,total_deductions,updated_at
+2026-02-19 11:07:18,Engineering - Senior,tomas@techcorp.com,16000000.0,16000000.0,500000,EMP001,2020-01-15,Tomas Anderson,14380000.0,320000.0,2026-02-19 11:07:18,800000.0,1620000.0,2026-02-19 11:07:18
+2026-02-19 11:07:18,Engineering,sarah@techcorp.com,12000000.0,12000000.0,500000,EMP002,2021-03-20,Sarah Connor,10660000.0,240000.0,2026-02-19 11:07:18,600000.0,1340000.0,
+2026-02-19 11:07:18,Sales,john@techcorp.com,10000000.0,10000000.0,500000,EMP003,2019-06-10,John McClane,8800000.0,200000.0,2026-02-19 11:07:18,500000.0,1200000.0,
