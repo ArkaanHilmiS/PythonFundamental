@@ -120,7 +120,7 @@ KAPAN MENGGUNAKAN:
 - Instance Attributes: Data yang berbeda untuk setiap object (nama, gaji, dll)
 - Class Attributes: Data yang sama untuk semua objects (company name, tax rate, dll)
 
-STUDI KASUS - COMPANY SETTINGS:
+STUDI KASUS - COMPANY SETTINGS: aaaa
 """
 
 print("\n" + "=" * 70)
